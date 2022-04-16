@@ -13,5 +13,5 @@ Press the space bar to start the algorithm
 
 ![Screen Shot 2022-04-16 at 9 56 26 AM](https://user-images.githubusercontent.com/34083543/163661389-1c232a2b-61d3-4703-be6f-50ab92a80bd1.png)
 
-The result looks something like this:
+The result looks like this ^
 
